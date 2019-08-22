@@ -6,4 +6,5 @@ $nomes = array(
  "idade" => 45,
  "e-mail" => "muratore@gmail.com"
 );
+$alunos = array("Ale","Marcelo","Joao");
  ?>
